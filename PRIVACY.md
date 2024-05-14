@@ -3,12 +3,6 @@
         <li><a href="/RunWear/">Home</a></li>
     </ul>
 </div>
-<div style="display: flex; align-items: center; background-color: #f2f2f2; padding: 20px;">
-    <img src="icon-512.png" alt="RunWear Icon" width="128" height="128" style="margin-right: 20px;border-radius: 50%;">
-    <div>
-        <h1>Privacy Policy</h1>        
-    </div>
-</div>
 
 This Privacy Policy describes how RunWear ("we," "us," or "our") collects, uses, and discloses information when you use our mobile application RunWear (the "App").
 
