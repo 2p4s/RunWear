@@ -23,8 +23,11 @@
 
 ## Get Started with RunWear Today!
 
-Download RunWear now and experience a new level of convenience and comfort in your running routine. Let the weather guide your outfit choices, so you can focus on what you love—running!
 [![Google Play Store](google-play-badge.png)](https://play.google.com/store/apps/details?id=com.deeplink.runwarm)
+
+Download RunWear now and experience a new level of convenience and comfort in your running routine. Let the weather guide your outfit choices, so you can focus on what you love—running!
+
+---
 
 # Privacy Policy {#privacy}
 
