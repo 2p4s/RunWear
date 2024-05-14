@@ -1,18 +1,18 @@
+<div style="background-color: #f2f2f2; padding: 20px;">
+    <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: center;">
+        <li><a href="#home">Home</a></li>
+        <li style="margin: 0 10px;">&raquo;</li>
+        <li><a href="#privacy-policy">Privacy Policy</a></li>
+    </ul>
+</div>
 <div style="display: flex; align-items: center; justify-content: space-between; background-color: #f2f2f2; padding: 20px;">
     <div>
-        <ul style="list-style-type: none; margin: 0; padding: 0; display: flex;">
-            <li><a href="#home">Home</a></li>
-            <li style="margin: 0 10px;">&raquo;</li>
-            <li><a href="#privacy-policy">Privacy Policy</a></li>
-        </ul>
+        <img src="icon-512.png" alt="RunWear Icon" width="128" height="128">
     </div>
     <div>
-        <img src="icon-512.png" alt="RunWear Icon" width="128" height="128" style="margin-left: 20px;">
+        <h1>Welcome to RunWear</h1>
+        <p>Welcome to RunWear, your ultimate companion for a perfect running experience! RunWear is more than just a weather app; it's your personal outfit advisor designed specifically for runners. No more guessing what to wear when you head out for a run—let RunWear take care of that for you!</p>
     </div>
-</div>
-<div style="background-color: #f2f2f2; padding: 20px;">
-    <h1>Welcome to RunWear</h1>
-    <p>Welcome to RunWear, your ultimate companion for a perfect running experience! RunWear is more than just a weather app; it's your personal outfit advisor designed specifically for runners. No more guessing what to wear when you head out for a run—let RunWear take care of that for you!</p>
 </div>
 
 
