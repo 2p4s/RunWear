@@ -1,4 +1,4 @@
-![RunWear Icon](icon-512.png)
+<img src="icon-512.png" alt="RunWear Icon" width="128" height="128">
 # Welcome to RunWear
 
 Welcome to RunWear, your ultimate companion for a perfect running experience! RunWear is more than just a weather app; it's your personal outfit advisor designed specifically for runners. No more guessing what to wear when you head out for a run—let RunWear take care of that for you!
