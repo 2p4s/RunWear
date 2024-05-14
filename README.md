@@ -5,10 +5,8 @@
         <li><a href="#privacy-policy">Privacy Policy</a></li>
     </ul>
 </div>
-<div style="display: flex; align-items: center; justify-content: space-between; background-color: #f2f2f2; padding: 20px;">
-    <div>
-        <img src="icon-512.png" alt="RunWear Icon" width="128" height="128">
-    </div>
+<div style="display: flex; align-items: center; background-color: #f2f2f2; padding: 20px;">
+    <img src="icon-512.png" alt="RunWear Icon" width="128" height="128" style="margin-right: 20px;">
     <div>
         <h1>Welcome to RunWear</h1>
         <p>Welcome to RunWear, your ultimate companion for a perfect running experience! RunWear is more than just a weather app; it's your personal outfit advisor designed specifically for runners. No more guessing what to wear when you head out for a run—let RunWear take care of that for you!</p>
