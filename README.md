@@ -1,4 +1,4 @@
-<div style="background-color: #f2f2f2; padding: 10px;">
+<div style="background-color: #e2e2e2; padding: 10px;">
     <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: center;">
         <li><a href="#home">Home</a></li>
         <li style="margin: 0 5px;">&raquo;</li>
